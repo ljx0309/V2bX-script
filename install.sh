@@ -184,6 +184,7 @@ install_V2bX() {
     echo -e ""
     echo "V2bX 管理脚本使用方法 (兼容使用V2bX执行，大小写不敏感): "
     echo "------------------------------------------"
+    echo "KueFone XrayR-V2bx"
     echo "V2bX              - 显示管理菜单 (功能更多)"
     echo "V2bX start        - 启动 V2bX"
     echo "V2bX stop         - 停止 V2bX"
